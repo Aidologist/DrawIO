@@ -1,61 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T14:34:30.551Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="GuX5Sh-_tp_9Xtcee-Xk" version="24.4.4" type="github">
-  <diagram name="Page-1" id="MOwUB-vfhyBLW53L41E0">
-    <mxGraphModel dx="1238" dy="975" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-06-04T12:17:14.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.4" etag="kplW0lrpDRbSqcWJCc8q" type="github">
+  <diagram name="Page-1" id="uD0ywF2Q7I4QCNjuDA1v">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6rpeT-INRwOcjsjKRLu-1" target="T6rpeT-INRwOcjsjKRLu-12">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="525" y="200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="516" y="290" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-1" value="Phone number" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-9" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T6rpeT-INRwOcjsjKRLu-6" target="T6rpeT-INRwOcjsjKRLu-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-6" value="AI Model" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="120.5" y="24" width="159" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-8" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T6rpeT-INRwOcjsjKRLu-7" target="T6rpeT-INRwOcjsjKRLu-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-7" value="Question list" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="361" y="34" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="T6rpeT-INRwOcjsjKRLu-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="0.5" y="275" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="100.5" y="170" width="20" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-12" value="Notebook (notion)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="529" y="90.5" width="120" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-14" value="Database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="529" y="48.5" width="120" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-15" value="Google sheet" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="529" y="6.5" width="120" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-30" value="Website&lt;br&gt;scan QR code" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="245" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-32" value="Videos&lt;br&gt;(collect from comments)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="142" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-33" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="509" y="14" width="20" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="T6rpeT-INRwOcjsjKRLu-38" value="Chat" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-49" y="259.5" width="52" height="31" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
